@@ -7,6 +7,11 @@ This project aims to explore and analyze air traffic in San Francisco. We cover 
 - Assessment of demand for flights to Asian destinations;
 - Strategic recommendations based on the conducted analyses.
 
+## Content
+- Air_Traffic_Passenger_Statistics.csv: CSV file containing data about air traffic in San Francisco Airport. This is a publicly available file on Kaggle.
+- Air_Traffic_tratado_final.csv: CSV file containing data after the cleaning stage.
+- PF_pyspark_FINAL.ipynb: Jupyter Notebook containing all the analyses done to cover the required topics.
+  
 ## Tools Used
 For analysis, we employed Pandas and Pyspark.
 
